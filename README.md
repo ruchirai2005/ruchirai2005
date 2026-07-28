@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
 
-# Hi There, I'm Ruchi Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iAPY/giphy.gif" width="30px">
+# Hi There, I'm Ruchi Rai  width="30px">
 
 </div>
 
