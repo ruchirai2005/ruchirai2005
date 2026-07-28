@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-# Hi There, I'm Ruchi Rai  width="30px">
+# Hi There, I'm Ruchi Rai 
 
 </div>
 
